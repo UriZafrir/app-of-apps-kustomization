@@ -1,2 +1,5 @@
 resources:
   - ../../base
+images:
+  - name: github.com
+    newTag: prod-1

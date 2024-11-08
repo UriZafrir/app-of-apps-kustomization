@@ -1,2 +1,2 @@
 resources:
-  - ovd.yaml
+  - deployment-service-ingress.yaml
